@@ -15,8 +15,8 @@ This repository contains the source code for the Kortour web application. Kortou
 
 ## 👥 Team
 
-* **Developers:** Soliha, Muhammad
-* **Designer:** Dilnura
+* **Developers:**Muhammad
+* **Designer:** 
 * **Manager:** Malika, Jeon
 
 
